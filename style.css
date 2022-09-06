@@ -1,0 +1,27 @@
+#h1{
+  color: maroon ;
+  font-size: 60px;
+  font-style: oblique;
+}
+
+#h2{
+  color: maroon;
+  font-size: 30px;
+}
+
+.h3{
+  color: black;
+  font-size: 30px;
+}
+
+.img{
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  width: 8cm;
+  height: 8cm;
+}
+ 
+    
+    
